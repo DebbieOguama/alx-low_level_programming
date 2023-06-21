@@ -3,7 +3,7 @@
 /**
  * create_file - The function that creates a file
  * @filename: A pointer to the name of the file to create.
- * @text_context: A pointer to a string to write to the file.
+ * @text_content: A pointer to a string to write to the file.
  *
  * Return: if the function fails - -1 otherwise -1.
  */
